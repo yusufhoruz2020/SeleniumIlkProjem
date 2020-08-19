@@ -34,7 +34,7 @@ public class Day02_NavigationMethods {
 
         // navigate().refresh(); methodu sayfayi yenilemeye yariyor
         webDriver.navigate().refresh();
-
+        webDriver.quit();
         //
 
 

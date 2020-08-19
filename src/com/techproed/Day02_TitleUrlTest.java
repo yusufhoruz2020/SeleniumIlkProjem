@@ -26,6 +26,9 @@ public class Day02_TitleUrlTest {
             System.out.println("video kelimesi yok.");
         }
 
+
+
+
         driver.quit();
 
 
